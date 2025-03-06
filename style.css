@@ -7,7 +7,7 @@
     }
     /* Fundo gradiente */
     body {
-    background: linear-gradient(to right, #ff7eb3, #ff758c, #ff7eb3);
+    background: linear-gradient(to right, #1400eb, #dcf500, #ff7eb3);
     color: white;
     text-align: center;
     padding: 20px;
@@ -26,7 +26,7 @@
     }
     /* Botão estilizado */
     button {
-    background-color: #ff4785;
+    background-color: #fa00bb;
     color: white;
 padding: 10px 20px;
 font-size: 1.2em;
